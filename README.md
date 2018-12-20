@@ -11,7 +11,7 @@
 ![应用实例](https://github.com/DawnsonLi/EVT/blob/master/pic/1.png)
 * 使用我们的方法只需定义异常事件发生的概率，而无需设置成百上千的阈值，以不变应万变
 ![应用实例](https://github.com/DawnsonLi/EVT/blob/master/pic/2.png)
-* 使用示例
+* 使用示例:
 这里给出一个应对数据漂移的算法运行结果示意图，上下黄色虚线分别对应算法自动设置的上下阈值。
 ![应用实例](https://github.com/DawnsonLi/EVT/blob/master/pic/middle_3.png)
 
